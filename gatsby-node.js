@@ -8,4 +8,4 @@
 const ci = require("ci-info")
 
 console.log({ ci })
-process.exit(1)
+// process.exit(1)
